@@ -48,11 +48,11 @@ The goal is not early literary analysis. The goal is attachment to words and sto
 
 ### 1. Read-Aloud Life
 
-Read aloud beyond the child's independent reading level. Protect pleasure. Stop or pause books that are dead for this child.
+Read aloud beyond the child's independent reading level. Protect pleasure. Stop or pause books that are dead for this child. Let your child *see you* reading for your own pleasure too — we catch the loves of others — and ritualize both reading-together and reading-alone (ritual is a powerful mythic tool for making a habit stick).
 
 ### 2. Book Tasting
 
-Let the child sample many books briefly and selfishly. Covers, first pages, pictures, and curiosity matter.
+Let the child sample many books briefly and selfishly. Covers, first pages, pictures, and curiosity matter. Teach the funnel honestly: most books aren't for you ("some books are to be tasted, others to be swallowed, and some few to be chewed and digested" — Bacon), so being a reader isn't *liking most books* — it's finding *your* books. Ritualize a weekly library trip (bring bags), and a monthly "book day" where each child keeps one. A two-minute timer per book turns sampling into a game.
 
 ### 3. Playing Inside Stories
 
@@ -80,15 +80,25 @@ Keep works in play: quote them, compare new life to them, revisit them seasonall
 
 ### 9. Becoming A Reader (Early Reading)
 
-Underneath read-aloud life sits the question of how a child *becomes* a reader at all. A strong complementary voice here is **Erik Hoel's "Teaching (Very) Early Reading" series** (The Intrinsic Perspective). Its through-line fits this guide's mission — **the goal is pleasure, not precocity**:
+The whole point is to grow a child who **loves reading** — not merely one who can decode or sit still. Zoom out the way Egan does: aim at the *love*, not the subskill. A child who loves reading and has a library is unstoppable.
 
-- **Tiny daily consistency, not heroic sessions.** Begin with a short daily reading time (under ~10 minutes) and expand gradually as appetite grows.
-- **Put books in the path of daily life** — the default thing to reach for while waiting, calming, or self-entertaining — not on a sacred, untouched shelf.
-- **Pair phonics with real books.** Teach sounding-out and blending (his Part 3 is a full phonics progression, including a sentence-completion game), but anchor it to actual reading, never to disconnected drills.
-- **Mind the "literacy lag."** Children meet screens long before they're taught to read, so books lose an unfair race; earlier, gentler reading lets books compete sooner.
-- **North star & proof:** the child reaches for books *voluntarily* and treats reading as pleasure, calm, power, and independence. Track lightly — voluntary book-reaches, sustained attention, self-chosen books, new words decoded, "read it again," reading alone.
+**The "reading wars" (phonics vs. whole-word).** Egan stayed deliberately *non-aligned*: either method can work, and what really matters is that the child has things they *want* to read and sees reading as meaningful. Brandon Hendrickson takes a sharper stance — **teach decoding with phonics, not "whole word."** Memorizing whole word-shapes turns English into thousands of squiggles to memorize (effectively Chinese characters) and has badly failed at-risk readers. Two caveats keep it humane:
 
-**Guardrail:** never turn reading into a status or trophy project. Borrow the environment design and daily rhythm; keep *pleasure* as the only signal that matters. (The decoding/phonics mechanics also connect to the Vocabulary & Writing guide.)
+- **Simplify the phonics.** Most phonics instruction is far too complex; keep it light.
+- **"Eganize" it, and never let it crowd out the love.** Perfect phonics still isn't loving reading (the same trap as fixating on attention span). Keep the progressivists' real wisdom — immerse the child in rich, meaningful language and actual books — right alongside the decoding.
+
+**Go silly with sounds (Eganizing phonics).** Bare flashcards bore many kids. Make a tiny ridiculous story for each letter-sound — "the R got chased up a tree by a dog; when it turned and roared *rrr*, the dog fled, so wherever R goes it makes that sound." Keep a notebook of these and reuse them.
+
+**Open the alphabet's wonder (a pure Egan move).** Every letter is a 2,000-year-old mystery: a capital **A** is the upside-down head of an ox (Phoenician *alef* → Greek *alpha*). Showing kids that the squiggles they'll write for life have a wild history turns decoding into an adventure. Pair it with cipher / other-alphabet play — drop a daily message in Greek, Cyrillic, or runes to crack. (Books: *Ox, House, Stick*; the Useful Charts "Evolution of the Alphabet" poster.)
+
+**Hoel's practical method folds in here (and Brandon endorses it):**
+
+- **Spiral the easy readers** — start with the easiest decodable books and keep cycling earlier ones back in (built-in spaced repetition) as you add harder ones.
+- **Tiny daily consistency**, not heroic sessions (start under ~10 min); **books in the path of daily life**, not on a sacred shelf.
+- Mind the **"literacy lag"**: kids meet screens long before reading, so books lose an unfair race — earlier, gentler reading lets them compete.
+- Teach the little *book* skills phonics skips: how to hold a book, turn pages, where to start.
+
+**North star (shared by both):** the child reaches for books *voluntarily* and reads for pleasure, calm, power, and independence. Track lightly — voluntary reaches, "read it again," self-chosen books, words newly decoded, reading alone. **Guardrail:** never make reading a status or trophy project; pleasure is the only signal that matters. (Decoding also connects to the Vocabulary & Writing guide; the alphabet's-story and cipher play are detailed in the Foreign Languages guide.)
 
 ## Planning Cascade
 
@@ -215,6 +225,10 @@ Mark one beloved work to revisit next season or next year.
   - `Epic Stories` — losttools.org/p/epic-stories
   - `Telling Jokes` — losttools.org/p/telling-jokes (backing for the humor thread)
   - `World Proverbs` — losttools.org/p/world-proverbs (backing for the sayings thread)
+  - `Origins of the Alphabet` — https://www.losttools.org/p/origins-of-the-alphabet (alphabet-as-wonder, for the early-reading thread)
+  - `Other Alphabets` (writing) — https://www.losttools.org/p/other-alphabets-writing (cipher / other-script play)
+  - `Why you should teach your six-year-old the IPA` — https://www.losttools.org/p/why-you-should-teach-your-six-year (letter-sounds)
+- The early-reading framework here (love-of-reading as the goal; the phonics-vs-whole-word "reading wars" and Egan's non-alignment; "simplify and Eganize phonics"; go-silly-with-sounds; the alphabet's wonder) is distilled from **Brandon Hendrickson's Lost Tools reading teaching**. Real works he names there, to borrow as they fit: Diane McGuinness, `Why Our Children Can't Read and What We Can Do About It` (foreword by Steven Pinker); `Ox, House, Stick: The History of Our Alphabet`; Natalie Wexler, `The Knowledge Gap` (caution against phonics-only); the Useful Charts "Evolution of the Alphabet" poster; and Francis Bacon's "some books are to be tasted…" (the book-funnel idea).
 - Charlotte Mason — origin of the term "living books" (cited in `Living Books`).
 - Matthew Dicks, `Storyworthy` — the personal-story method (character / desire / thwarted attempts / resolution / change), cited in `Story Ingredients`.
 - Kieran Egan, `The Educated Mind`.
