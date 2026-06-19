@@ -110,13 +110,15 @@ Build a habit of close observation plus a small cabinet of genuine mysteries, lo
 
 ## Doorways
 
-- Minecraft: biomes, mining, materials, circuits, ecology, gravity mods.
+The doorway is the child's current obsession — animals, space, cooking, machines, gardening, the body, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Animals: classification, behavior, habitats, evolution, anatomy.
 - Space: scale, gravity, phases, light, planets, stars.
 - Cooking: chemistry, heat, phase change, fermentation.
 - Machines: forces, energy, gears, levers, electricity.
 - Gardening: plants, soil, insects, weather, seasons.
 - Body: senses, bones, muscles, sleep, digestion.
+- Minecraft: biomes, mining, materials, circuits, ecology, gravity mods.
 
 ## Multiple Children
 

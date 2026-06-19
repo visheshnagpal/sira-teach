@@ -122,13 +122,15 @@ A useful day can be tiny:
 
 ## Doorways
 
-- Minecraft: coordinates, scale, area, volume, resources, ratios, redstone logic.
+The doorway is the child's current obsession — cooking, money, sports, building, games, art, machines, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Cooking: fractions, ratios, time, temperature, scaling recipes.
 - Money: counting, place value, decimals, budgeting, tradeoffs.
 - Sports: scores, rates, probability, records, geometry.
 - Building: measurement, symmetry, angles, load, area, volume.
 - Games: strategy, probability, combinatorics, logic.
 - Art: symmetry, pattern, tiling, proportion.
+- Minecraft: coordinates, scale, area, volume, resources, ratios, redstone logic.
 
 The doorway opens mathematics; it does not replace mathematics.
 

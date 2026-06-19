@@ -115,12 +115,14 @@ Build a living shelf of beloved works and practices: read aloud, retell, memoriz
 
 ## Doorways
 
-- Minecraft: quest logs, world lore, maps, survival stories, myths of a place.
+The doorway is the child's current obsession — animals, humor, heroes, art, family life, a favorite show or game, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Animals: animal tales, field guides as literature, fables.
 - Humor: joke books, comic strips, funny poems.
 - Heroes: myths, biographies, epics.
 - Art: picture books, illustrated classics, wordless books.
 - Family: stories from childhood, cultural tales, repeated sayings.
+- Minecraft: quest logs, world lore, maps, survival stories, myths of a place.
 
 ## Multiple Children
 

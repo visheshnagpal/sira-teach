@@ -110,13 +110,15 @@ Adopt a language and build a small living base of sounds, words, songs, phrases,
 
 ## Doorways
 
-- Minecraft: item names, place labels, commands, signs, treasure maps.
+The doorway is the child's current obsession — food, animals, music, travel, secret scripts, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Food: ingredients, menus, cooking verbs, market phrases.
 - Animals: animal names, sounds, habitats, folktales.
 - Music: songs, rhythm, pronunciation, cultural identity.
 - Travel: maps, tickets, greetings, landmarks.
 - Family: heritage, relatives, names, prayers, stories.
 - Scripts: secret codes, calligraphy, inscriptions.
+- Minecraft: item names, place labels, commands, signs, treasure maps.
 
 ## Multiple Children
 

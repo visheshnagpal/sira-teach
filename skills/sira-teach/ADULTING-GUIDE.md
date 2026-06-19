@@ -110,13 +110,15 @@ Build a small set of real competencies the child can do with pride: one self-car
 
 ## Doorways
 
-- Minecraft: resources, tools, storage, building, repair, trade, base maintenance.
+The doorway is the child's current obsession — cooking, money, animals, building, family life, civics, a favorite show or game, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Cooking: recipes, tools, cleaning, hospitality, budgeting.
 - Money: shops, games, sports cards, savings goals.
 - Animals: feeding, cleaning, responsibility, schedules.
 - Building: tools, measuring, fixing, planning.
 - Family: real needs, routines, guests, celebrations.
 - Law and civics: rules, fairness, public spaces, community helpers.
+- Minecraft: resources, tools, storage, building, repair, trade, base maintenance.
 
 ## Multiple Children
 

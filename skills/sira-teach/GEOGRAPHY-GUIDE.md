@@ -152,14 +152,14 @@ A useful day can be tiny:
 
 ## Doorways
 
-Use the child's current fascination as the doorway.
+The doorway is the child's current obsession — animals, maps, machines, myths, sports, cooking, buildings, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
 
-- Minecraft: maps, coordinates, biomes, rivers, mountains, routes, bases, scale, resource locations.
 - Animals: migration, habitats, islands, oceans, deserts, forests.
 - Food: where ingredients grow, trade routes, climates, markets.
 - Sports: countries, stadiums, travel, flags, time zones.
 - Stories: where the story happens, what the land makes possible, journeys.
 - Family: ancestral places, moves, trips, languages, weather, landscapes.
+- Minecraft: maps, coordinates, biomes, rivers, mountains, routes, bases, scale, resource locations.
 
 The doorway opens geography; it does not replace geography.
 

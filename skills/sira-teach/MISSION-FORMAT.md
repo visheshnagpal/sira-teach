@@ -11,7 +11,7 @@
 {1-3 sentences. The concrete real-world reason this matters. What changes for the child — what they'll be able to do, understand, or feel? Push past "to understand X" to the underlying outcome.}
 
 ## The child's doorway
-{1-2 sentences. What already lights this child up that can open the subject? This may be a current fascination like Minecraft, maps, music, money, buildings, stories, games, family life, etc. If you don't know yet, say so.}
+{1-2 sentences. What already lights this child up that can open the subject? This is the child's current obsession — whatever it is right now: maps, animals, machines, myths, music, money, buildings, stories, sports, cooking, games, a favorite show or book, Minecraft, family life, etc. If you don't know yet, say so.}
 
 ## Success looks like
 - {A specific, observable thing the child will be able to do, tell, or make}

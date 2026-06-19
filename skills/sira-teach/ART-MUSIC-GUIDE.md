@@ -126,13 +126,15 @@ Build a family canon and a habit of making: songs, images, doodles, rhythms, fil
 
 ## Doorways
 
-- Minecraft: builds, architecture, texture, soundscapes, maps, pixel art.
+The doorway is the child's current obsession — movies, animals, sports, food, history, a favorite show or game, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Movies: soundtrack, scene composition, character themes.
 - Animals: animal art, calls, movement, masks.
 - Sports: chants, logos, uniforms, stadium songs.
 - Food: still life, table rituals, festival music.
 - History: period art, propaganda, songs of movements.
 - Family: songs, wedding music, religious art, heirloom images.
+- Minecraft: builds, architecture, texture, soundscapes, maps, pixel art.
 
 ## Multiple Children
 

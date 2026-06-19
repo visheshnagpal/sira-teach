@@ -153,15 +153,15 @@ A useful day can be tiny:
 
 ## Doorways
 
-Use the child's current fascination as the doorway.
+The doorway is the child's current obsession — animals, buildings, myths, sports, cooking, machines, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
 
-- Minecraft: settlements, tools, mining, farming, trade, fortifications, maps, ruins, invention.
-- Animals: domestication, migration, war animals, extinct animals, symbols, food systems.
 - Buildings: pyramids, castles, temples, houses, bridges, factories, cities.
+- Animals: domestication, migration, war animals, extinct animals, symbols, food systems.
 - Food: spice routes, farming, famine, markets, festivals, cooking tools.
 - Sports: ancient games, modern Olympics, national stories, heroes, rules, equipment.
 - Stories and myths: where the tale came from, what world made it plausible, how it changed.
 - Family: ancestors, migrations, languages, professions, heirlooms, places lived.
+- Minecraft: settlements, tools, mining, farming, trade, fortifications, maps, ruins, invention.
 
 The doorway opens history; it does not replace history.
 

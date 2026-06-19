@@ -111,12 +111,14 @@ Build a confident word-and-sentence life: the child gathers words, imitates patt
 
 ## Doorways
 
-- Minecraft: signs, guidebooks, quest logs, base descriptions, creature reports.
+The doorway is the child's current obsession — animals, food, sports, stories, family life, a favorite show or book, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Animals: field notes, creature descriptions, poems, care instructions.
 - Food: recipes, reviews, menus, sensory words.
 - Sports: commentary, player bios, rules, persuasive arguments.
 - Stories: alternate endings, character letters, retellings.
 - Family: letters, captions, family sayings, remembered stories.
+- Minecraft: signs, guidebooks, quest logs, base descriptions, creature reports.
 
 ## Multiple Children
 

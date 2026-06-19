@@ -103,13 +103,15 @@ Build a small set of living questions, virtues, proverbs, sacred stories, and ju
 
 ## Doorways
 
-- Minecraft: rules, ownership, justice, worlds, creation, griefing, cooperation.
+The doorway is the child's current obsession — stories, animals, space and science, food, family life, law, a favorite show or game, Minecraft, whatever it is right now. Start wherever the child already burns hot.
+
 - Stories: moral choices, promises, identity, courage, death, sacrifice.
 - Animals: minds, personhood, care, suffering.
 - Space/science: reality, mystery, origins, knowledge.
 - Food: ritual, taboo, hospitality, festivals.
 - Family: values, holidays, prayer, grief, gratitude, rules.
 - Law: arguments, sides, evidence, fairness.
+- Minecraft: rules, ownership, justice, worlds, creation, griefing, cooperation.
 
 ## Multiple Children
 
