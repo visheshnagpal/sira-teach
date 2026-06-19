@@ -204,9 +204,10 @@ Strong canon candidates:
 - Local museums, historical sites, monuments, cemeteries, old buildings, and family elders.
 - Public-domain images from museums and libraries.
 
+- Joy Hakim's `The Story of Science` series for popular science-history — named in the source ("Origin stories in science & math").
+
 Editor-added leads (real works the source does not name; vet before relying on them):
 
-- Joy Hakim's `The Story of Science` series for popular science-history. The source praises Hakim as a writer; these are an editorial suggestion.
 - Other story-rich homeschool history curricula and read-alouds, previewed for age and family fit.
 
 Substitutes:
@@ -274,6 +275,4 @@ Make one card with a stable image anchor: person, place, problem, and why we rem
 - Susan Wise Bauer, `The Story of the World` (four-book series) and `The Well-Trained Mind`, named in the source as story sources to vet.
 - Larry Gonick, `The Cartoon History of the Universe` (and `The Cartoon History of the Modern World`), named in the source.
 
-Editor-added (real works, not drawn from the source archive):
-
-- Joy Hakim, `The Story of Science` (`Aristotle Leads the Way`, `Newton at the Center`, `Einstein Adds a New Dimension`). The source mentions Hakim as a strong popular-science-history writer; these specific titles are an editorial addition.
+- Brandon Hendrickson, "Origin stories (in science & math)", The Lost Tools of Learning, 2023. https://www.losttools.org/p/origin-stories-in-science-and-math — names Joy Hakim's `The Story of Science` (`Aristotle Leads the Way`, `Newton at the Center`, `Einstein Adds a New Dimension`).

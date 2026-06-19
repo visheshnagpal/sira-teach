@@ -211,9 +211,25 @@ Play one short strategy or number game, then ask the child to explain one move.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools of Learning (losttools.org) math writings and workshops, including "The magic of numbers: The seriousness of enchantment," "Finger math," "Concept Ladders (math)," "Origin stories (in science & math)," "How to build a Deep Practice Book," and "A sneak peek at math."
+Brandon Hendrickson, The Lost Tools of Learning (losttools.org), the math patterns this guide draws on:
+
+- Brandon Hendrickson, "A sneak peek at math", The Lost Tools of Learning, 2025. https://www.losttools.org/p/a-sneak-peek-at-math
+- Brandon Hendrickson, "The magic of numbers: The seriousness of enchantment", The Lost Tools of Learning, 2026. https://www.losttools.org/p/the-magic-of-numbers-math-in-elementary (the Number Sense thread).
+- Brandon Hendrickson, "The magic of numbers: Computational wizardry", The Lost Tools of Learning, 2026. https://www.losttools.org/p/the-magic-of-numbers-computational (fantastic feats of mental math; backing for the mental-math thread).
+- Brandon Hendrickson, "Concept Ladders (math)", The Lost Tools of Learning, 2024. https://www.losttools.org/p/concept-ladders-math
+- Brandon Hendrickson, "Origin stories (in science & math)", The Lost Tools of Learning, 2023. https://www.losttools.org/p/origin-stories-in-science-and-math
+- Brandon Hendrickson, "How to build a Deep Practice Book", The Lost Tools of Learning, 2023. https://www.losttools.org/p/how-to-build-a-deep-practice-book
+- Brandon Hendrickson, "Boss Questions in math", The Lost Tools of Learning, 2023. https://www.losttools.org/p/boss-questions-in-math (the Boss Problem artifact).
+- Brandon Hendrickson, "Finger math", The Lost Tools of Learning, 2024. https://www.losttools.org/p/finger-math (the finger-as-abacus method; cites Lieberthal).
+- Brandon Hendrickson, "Counting Rhymes", The Lost Tools of Learning, 2024. https://www.losttools.org/p/counting-rhymes (counting and times-table patterns as song).
+- Brandon Hendrickson, "Basic abacus", The Lost Tools of Learning, 2024. https://www.losttools.org/p/basic-abacus
+- Brandon Hendrickson, "Bead Computers", The Lost Tools of Learning, 2024. https://www.losttools.org/p/bead-computers
+- Brandon Hendrickson, "Masters of Measurement", The Lost Tools of Learning, 2025. https://www.losttools.org/p/masters-of-measurement (the Measurement And Reality thread and Measurement Hunt artifact).
+
+External works cited in those patterns or as canon (verified real):
+
 - John Mighton, JUMP Math.
-- Edwin Lieberthal, `The Complete Book of Finger Math`.
+- Edwin Lieberthal, `The Complete Book of Finger Math` (named in "Finger math").
 - Kieran Egan, `The Educated Mind`.
 - Arthur Benjamin, `Secrets of Mental Math`.
 - Ben Orlin, `Math for English Majors`.

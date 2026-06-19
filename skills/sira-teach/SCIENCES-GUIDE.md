@@ -193,7 +193,23 @@ Use a simple model, then name what the model cannot show.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools of Learning (losttools.org) science writings and workshops, including "Secrets & Revelations (science)," "Cryptids," "Big History," "Plant MatchMaker," "A fossil hunt to end the culture war," and "Know a Tree."
+Brandon Hendrickson, The Lost Tools of Learning (losttools.org), the science patterns this guide draws on:
+
+- Brandon Hendrickson, "Know a Tree", The Lost Tools of Learning, 2024. https://www.losttools.org/p/know-a-tree (the Local Nature thread and the Know One Thing artifact).
+- Brandon Hendrickson, "Local Birds", The Lost Tools of Learning, 2024. https://www.losttools.org/p/local-birds (local-nature acquaintance; backs Merlin Bird ID in the canon).
+- Brandon Hendrickson, "Track the Sky", The Lost Tools of Learning, 2024. https://www.losttools.org/p/track-the-sky (the sky-and-shadows observation thread).
+- Brandon Hendrickson, "Star Lore", The Lost Tools of Learning, 2024. https://www.losttools.org/p/star-lore (sky lore and the Scale And Systems thread).
+- Brandon Hendrickson, "Secrets & Revelations (science)", The Lost Tools of Learning, 2024. https://www.losttools.org/p/secrets-and-revelations (the signature withhold-the-fact move and the Earn The Secret artifact).
+- Brandon Hendrickson, "We are Surrounded by Mystery", The Lost Tools of Learning, 2025. https://www.losttools.org/p/we-are-surrounded-by-mystery (mystery as a known unknown).
+- Brandon Hendrickson, "Your Solar System is wrong", The Lost Tools of Learning, 2023. https://www.losttools.org/p/your-solar-system-is-wrong (Weird Mechanisms and the What Is Wrong With This Picture? artifact).
+- Brandon Hendrickson, "How to really SEE an eclipse", The Lost Tools of Learning, 2024. https://www.losttools.org/p/how-to-really-see-a-solar-eclipse (Experiments That Explain; scale and seeing).
+- Brandon Hendrickson, "Plant MatchMaker", The Lost Tools of Learning, 2025. https://www.losttools.org/p/plant-matchmaker (the Plant MatchMaker artifact).
+- Brandon Hendrickson, "A fossil hunt to end the culture war", The Lost Tools of Learning, 2025. https://www.losttools.org/p/a-fossil-hunt-to-end-the-culture (the Evidence And Rival Models thread).
+- Brandon Hendrickson, "Cryptids", The Lost Tools of Learning, 2024. https://www.losttools.org/p/cryptids (weighing evidence; backs Loxton & Prothero in the canon).
+- Brandon Hendrickson, "Big History", The Lost Tools of Learning, 2024. https://www.losttools.org/p/big-history (the Scale And Systems thread; backs the Big History Project in the canon).
+
+External works cited in those patterns or as canon (verified real):
+
 - Kieran Egan, `The Educated Mind`.
 - Kieran Egan, `An Imaginative Approach to Teaching`.
 - Michael Pollan, "The Intelligent Plant" (New Yorker essay; replaces an earlier listing of David George Haskell, who does not appear in the source archive).
