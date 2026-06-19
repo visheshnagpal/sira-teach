@@ -51,7 +51,16 @@ For preschool and kindergarten, the goal is not accurate cartography. The goal i
 
 ### 1. Maps
 
-Start with the biggest things: continents and oceans. Add one new place at a time, review old friends, and linger if the child is hungry for rivers, mountains, countries, or regions.
+Start with the biggest things: continents and oceans. Add one new place at a time (a place a day is a comfortable pace), review old friends, and linger if the child is hungry for rivers, mountains, countries, or regions.
+
+Then quietly aim for completion. The big payoff comes from a child who actually holds the whole world in their head, so set the horizon high and walk toward it over years:
+
+1. continents and oceans;
+2. the major countries (going by population is a fair, fight-free way to pick which to learn first);
+3. the major cities and the most striking features (highest mountains, driest deserts, biggest rivers, richest reefs and rainforests);
+4. then fill in whole sets: all the countries of a continent, all the states or provinces of your nation, and eventually all 195 UN-recognized nations.
+
+It does not matter much where the "major countries" line falls, precisely because the destination is completion. Front-load what feels most important so a child who stops partway still has the most useful pieces.
 
 Make maps meaningful by using a story shape:
 
@@ -59,6 +68,8 @@ Make maps meaningful by using a story shape:
 - **Complicate**: move from room to playground to neighborhood to town to country to world.
 - **Transform**: create old-friends cards for continents, oceans, and major features.
 - **Integrate**: ask what the child now wonders about the world.
+
+Google Earth is arguably the greatest map ever made, and it is a core tool for this thread: zoom from your own roof out to the Pacific, drop into any place a story mentions, and scout local features. But the best map is still the one you can point to in two seconds without opening an app, so keep a real wall map up alongside it.
 
 ### 2. Marvels
 
@@ -124,6 +135,7 @@ A useful week might include:
 - one new map feature or marvel;
 - one old-friends review;
 - one map/globe pointing game;
+- a short, frequent map drill (Seterra works well; even a few minutes most days adds up fast toward completion);
 - one local noticing walk or direction practice;
 - one short reference or memory artifact.
 
@@ -184,6 +196,8 @@ Strong canon candidates:
 - A large wall map.
 - A local street or trail map.
 - A child-friendly world atlas.
+- Google Earth as a core, free map tool: zoom from home to ocean, fly to any place a story names, scout local features.
+- Seterra (seterra.com): a free map-quiz tool that drills continents, oceans, countries, capitals, states, and features by tap-to-find. It is the workhorse for the drive toward completion, and it has built-in custom maps (for example, the most populous nations). A gentle warning: it is mildly addictive.
 - `Atlas Obscura Explorer's Guide for the World's Most Adventurous Kid`.
 - `Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders`.
 - `Atlas Obscura Wildlife: An Explorer's Guide to the World's Living Wonders`.
@@ -196,6 +210,7 @@ Substitutes:
 
 - library atlas instead of owned atlas;
 - printed outline maps instead of purchased map sets;
+- Seterra or printed blank maps instead of paid quiz workbooks;
 - public-domain or museum images instead of paid books;
 - a neighborhood walk instead of a field trip;
 - a phone compass only as a check, not as the main teacher.
@@ -234,9 +249,18 @@ Put direction cards on the walls. Use them casually for one week.
 
 Read one marvel, find it, imagine being there, and make a card: name, what it is, where it is.
 
+### Ten-Nation Drill
+
+Together, guess the ten most populous countries, then check on a map. Then open Seterra's matching map and try to tap them all. Miss some? Run it again. This is the smallest taste of the drive toward completion, and it is the easy on-ramp to learning more countries over time.
+
 ## Bibliography
 
-- Brandon Hendrickson, "Geography in elementary school", The Lost Tools of Learning, 2026. Public source: https://www.losttools.org/p/geography-in-elementary-school
+- Brandon Hendrickson, "Geography in elementary school", The Lost Tools of Learning, 2026. https://www.losttools.org/p/geography-in-elementary-school
+- Brandon Hendrickson, "Geography by Heart", The Lost Tools of Learning, 2024. https://www.losttools.org/p/geography-by-heart
+- Brandon Hendrickson, "Know a Place", The Lost Tools of Learning, 2024. https://www.losttools.org/p/know-a-place
+- Brandon Hendrickson, "Track the Sky", The Lost Tools of Learning, 2024. https://www.losttools.org/p/track-the-sky
+- Seterra (seterra.com): free online map-quiz drills. Tool referenced throughout the source.
+- Google Earth: free interactive globe and map tool. Referenced in the source.
 - Kieran Egan, `The Educated Mind`.
 - Kieran Egan, `An Imaginative Approach to Teaching`.
 - H. A. Rey, `Find the Constellations`.

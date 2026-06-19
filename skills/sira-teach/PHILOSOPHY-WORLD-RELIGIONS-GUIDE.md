@@ -14,6 +14,8 @@ The elementary aim is to:
 - connect moral and metaphysical questions to lived examples;
 - build old friends for proverbs, virtues, stories, questions, and terms.
 
+Religions are worth teaching for several plain reasons: you cannot understand the world (or many of the people in it) without them; they hold strange and useful insight; and a child who never learns them is more easily fooled by whichever version reaches them first online. The aim is literacy and good judgment, not conversion.
+
 ## Leading Words
 
 - **Big question**: a question that keeps opening rather than closing.
@@ -34,11 +36,11 @@ Do not rush the later tools. Let elementary work be concrete, story-rich, respec
 
 ## Pre-Elementary Ramp
 
-Very young children already ask philosophy:
+Very young children already ask philosophy. Three simple games can be played with children as young as three. They come from the Philosophy with Children movement (founded by Carlo Maria Cirino, now led by Alessandro Gelmi), and they prepare a child for the seminar-style discussion that comes later in the early grades:
 
-1. **Word chain**: what counts as a chair, animal, toy, person, alive?
-2. **One object**: could a spoon be made of air? Is a broken cup still a cup?
-3. **Strange situations**: a dog is found on Mars; what could have happened?
+1. **Word chain**: one person says a word; the next says a related word, and so on. When a step is strange, stop and ask how the two connect.
+2. **One object**: put down a spoon, sock, or pine cone and ask what it is like. Then push the edges: could a spoon be made of air? Could you use it on the Moon? Is a cup a kind of spoon?
+3. **Strange situations**: state an odd premise and ask how it could have happened. A dog is found on Mars; a bluebird weighs as much as an elephant.
 4. **Fairness moments**: real disputes over sharing, rules, promises.
 5. **Sacred stories and rituals**: family traditions, holidays, songs, images.
 
@@ -52,19 +54,19 @@ Pause when a real subject produces a big question. Do not manufacture abstractio
 
 ### 2. Proverbs And Microliterature
 
-Use proverbs as tiny thought objects. Copy, restate, argue, memorize, compare, and connect.
+Use proverbs as tiny thought objects: a proverb is the most experience packed into the fewest words. Offer a few each week, picked to be diverse in meaning and origin. Copy each into a special spot (this doubles as handwriting practice), restate it in your own words, argue over what it means, commit it to memory, and connect it to stories the child already knows. Highlight disagreements rather than settling them.
 
 ### 3. Named Virtues
 
-Choose a handful of family virtues. Pursue them through stories, heroes, sacrifices, failures, and real family decisions.
+Choose a handful of family virtues, rather than trying to honor every good quality at once. Pursue them through stories, heroes, sacrifices, failures, and real family decisions. Avoid stories that end in a tidy "moral"; good stories carry their values inside the action, not in a closing sentence. Let the child also question and test the virtues, not just obey them.
 
 ### 4. World Religions Everywhere
 
-Include religious stories, art, buildings, festivals, practices, music, ethics, and questions across history, geography, literature, art, and family life.
+Include religious stories, art, buildings, festivals, practices, music, ethics, and questions across history, geography, literature, art, and family life. The subjects already teem with religious material; the work is mostly to stop keeping it out. A concrete elementary practice is to learn the short numbered doctrines by heart, the way many traditions do with scripture: the Ten Commandments, the Four Noble Truths, the Five Pillars. The aim is sacred literacy and respect, not adopting or refuting any one faith.
 
 ### 5. Law And Justice
 
-Use strange real cases and child-scale disputes to practice reasons, sides, rules, consequences, and fairness.
+Use strange real cases and child-scale disputes to practice reasons, sides, rules, consequences, and fairness. Tell the story that led to the case, name the questions it raises, assign sides, argue it, declare a winner, and only then reveal how it really turned out. For older children, "The Case of the Speluncean Explorers" (a famous fictional case from a 1940s law review article, freely readable online) is a rich one, because every judge in it reaches a different verdict for a different reason.
 
 ## Planning Cascade
 
@@ -127,7 +129,7 @@ Shared stories and questions work well, but do not force one child's depth on an
 Strong canon candidates:
 
 - family stories, traditions, rituals, and values;
-- proverb collections from many cultures;
+- proverb collections from many cultures: Jon R. Stone, `The Routledge Book of World Proverbs`, and the searchable site worldofproverbs.com (searchable by topic or culture; vet for whether attributions are genuine);
 - children's books about world religions, vetted for respect and accuracy;
 - local houses of worship or cultural centers, visited respectfully;
 - Hershovitz, `Nasty, Brutish, and Short` for parent support;
@@ -175,9 +177,26 @@ Use a child-scale dispute to argue both sides before deciding.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools philosophy and world religion workshops.
-- Kieran Egan, `The Educated Mind`.
+Lost Tools of Learning (losttools.org), Brandon Hendrickson, the patterns this guide draws on:
+
+- "Philosophy Everywhere" — https://www.losttools.org/p/philosophy-everywhere
+- "Philosophy with preschoolers" — https://www.losttools.org/p/philosophy-with-preschoolers (source of the three preschool games)
+- "Named Virtues" — https://www.losttools.org/p/named-virtues
+- "World Proverbs" — https://www.losttools.org/p/world-proverbs
+- "World Religions Everywhere" — https://www.losttools.org/p/world-religions-everywhere
+- "But why teach religions?" — https://www.losttools.org/p/but-why-teach-religions
+- "Everyone Learns Law" — https://www.losttools.org/p/everyone-learns-law
+
+A fuller "Philosophy Wireframe" and "World Religions Wireframe" were announced for late 2026 but were not yet published when this guide was written; treat the patterns above as the current source.
+
+Resources named within those patterns and worth seeking out directly:
+
+- Philosophy for Children (P4C), founded by Matthew Lipman in the 1970s — the originating movement for child philosophy seminars.
+- Alessandro Gelmi and Carlo Maria Cirino, the Philosophy with Children movement — originators of the three preschool games above.
+- Jon R. Stone, `The Routledge Book of World Proverbs`; and worldofproverbs.com.
+- "The Case of the Speluncean Explorers" (fictional 1940s law-review case), freely readable online.
 - Scott Hershovitz, `Nasty, Brutish, and Short`.
-- Stephen Prothero, `God Is Not One`.
+- Stephen Prothero, `God Is Not One` and `Religious Literacy`.
 - Huston Smith, `The World's Religions`.
-- Peterson and Seligman, character strengths work.
+- Kieran Egan, `The Educated Mind` (the underlying framework).
+- Christopher Peterson and Martin Seligman, character-strengths work (cited in "Named Virtues").

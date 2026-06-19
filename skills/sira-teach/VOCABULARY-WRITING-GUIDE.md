@@ -8,11 +8,12 @@ Vocabulary and writing help a child love words, notice sentences, shape thoughts
 
 The elementary aim is to:
 
-- grow a loved, usable store of words;
+- grow a loved, usable store of words and proverbs;
 - imitate strong sentences and speech patterns;
 - write or dictate real thoughts, stories, jokes, descriptions, and arguments;
+- tell jokes and short speeches out loud with a real audience;
 - connect writing to attention, memory, and voice;
-- build old friends for words, phrases, sentence patterns, poems, and speeches.
+- build old friends for words, proverbs, sentence patterns, poems, and speeches.
 
 ## Leading Words
 
@@ -24,13 +25,15 @@ The elementary aim is to:
 
 ## K-12 Horizon
 
-Elementary roots writing in oral language, copywork, dictation, imitation, journaling, narration, jokes, letters, lists, poems, and playful sentences.
+Elementary roots writing in oral language, imitation of strong sentences, a proverb a day, jokes, short spoken talks, simple story recipes, journaling, letters, lists, poems, and playful sentences.
 
 Middle school can add structure: paragraphs, arguments, story craft, revision, grammar as a tool, rhetoric, public speaking, and audience.
 
 High school can add essays, style, satire, research, criticism, speeches, dialectic, and the irony that language can reveal, manipulate, and conceal.
 
 Do not rush the later tools. Let elementary writing begin with speech, delight, imitation, and real reasons to write.
+
+(Some families also borrow copywork, dictation, and narration from the Charlotte Mason tradition. These are a fine complement and many children thrive on them, but they are not part of this source's own practice, which leans on imitation, proverbs, jokes, short speeches, and story craft. Use them as a knowing addition, not as the core.)
 
 ## Pre-Elementary Ramp
 
@@ -52,19 +55,23 @@ Collect words from books, comics, songs, family life, nature, games, and history
 
 ### 2. Strong Sentences
 
-Give sentence patterns to imitate before naming grammar. Let the content be silly or vivid so the structure becomes visible.
+Give sentence patterns to imitate before naming grammar. Start with the simplest shape ("Cougars prowl") and let the content be silly or vivid ("Grandparents burp") so the structure, not the meaning, is what stands out. Only after a child sees what each word is doing do you hand them the grown-up name for it. Then grow toward richer shapes over the years. This is imitation, the oldest path to good writing: the Roman teacher Quintilian called it *imitatio* and built a whole school around copying the moves of strong writers in order to make them your own. A useful parent move: keep three versions of each pattern in view, the bare structure, a whimsical sentence, and a proverb that fits it (for example, "Time flies").
 
-### 3. Narration And Retelling
+### 3. Proverbs
 
-After a story, event, experiment, or walk, ask the child to tell what happened. Shape it gently: first, then, but, so, finally.
+Give a child a proverb a day, chosen to be as varied in meaning and origin as possible. Three to five a week is plenty, and it doubles as handwriting and spelling practice. Ask "what the heck does this mean?" and have the child restate it in their own words; when readings disagree, notice the different interpretations. Then help commit favorites to memory and connect them to stories and ideas the child is meeting elsewhere. A proverb is the most experience packed into the fewest words, and over time it stops being something to think *about* and becomes something to think *with*. Post the ones learned so far in a common spot so they can be compared and argued over.
 
-### 4. Personal Writing
+### 4. Narration And Retelling
+
+After a story, event, experiment, or walk, ask the child to tell what happened. Shape it gently: first, then, but, so, finally. (Formal narration is a Charlotte Mason practice rather than a Lost Tools one; this lighter "tell me what happened" version sits comfortably alongside the spoken-language work the source favors.)
+
+### 5. Personal Writing
 
 Use tiny, real forms: one-sentence diary, thank-you note, field note, caption, joke, sign, recipe, speech, complaint, invitation, memory card.
 
-### 5. Public Voice
+### 6. Public Voice
 
-Practice very short speeches, recitations, jokes, and teach-backs. The body and voice are part of writing.
+Practice very short speeches, recitations, jokes, and teach-backs; the body and voice are part of writing. Start tiny and frequent: 30-to-60-second talks, the goal at first being simply that the child is not terrified, not that the talk is polished. Give a prompt that invites a tool rather than a recital of facts ("tell us a joke about...," "tell us a story about..."). Jokes belong here as real practice, not filler: untangling and landing a joke is close cousin to a logic problem, and a child who must explain why a joke works is doing real analytic thinking. Simple story recipes help too, beginning around fourth grade (a character, what they want, attempts that fail bigger and bigger, a resolution, and a change in the character). For the worldwide model of how short, gamified, tightly-timed speaking practice works, Toastmasters is the reference.
 
 ## Planning Cascade
 
@@ -75,8 +82,9 @@ Build a confident word-and-sentence life: the child gathers words, imitates patt
 ### Season Focus
 
 - word treasure and vocabulary;
-- copywork and sentence imitation;
-- oral narration;
+- sentence imitation;
+- a proverb a day;
+- oral retelling;
 - jokes and humor;
 - personal diary or field notes;
 - story writing;
@@ -87,15 +95,16 @@ Build a confident word-and-sentence life: the child gathers words, imitates patt
 
 - one word treasure;
 - one sentence imitation;
-- one oral narration or dictation;
+- a few proverbs (three to five), restated and posted;
+- one oral retelling;
 - one tiny real writing act;
 - one old-friends check when due.
 
 ### Day Ritual
 
 - choose one word;
-- copy one sentence;
-- dictate one thought;
+- imitate one sentence pattern;
+- copy down and restate one proverb;
 - tell one thing that happened;
 - make one joke better;
 - read one line aloud.
@@ -118,6 +127,7 @@ Share read-alouds, word treasure, jokes, and speeches. Keep writing output learn
 - **Word**: "What does vivid mean?"
 - **Phrase**: "Use 'on the other hand' in a sentence."
 - **Pattern**: "Start a sentence with an action: 'Cougars prowl...'"
+- **Proverb**: "Say the proverb about haste, and tell me what it means."
 - **Poem line**: "Say the next line."
 - **Speech move**: "Look up before the last sentence."
 - **Spelling**: "Write because."
@@ -127,10 +137,12 @@ Share read-alouds, word treasure, jokes, and speeches. Keep writing output learn
 Strong canon candidates:
 
 - loved picture books, comics, poems, songs, and read-alouds;
-- a family word notebook;
-- `The Art of Styling Sentences` for parent support;
+- a family word notebook and a proverb notebook;
+- `The Art of Styling Sentences: 20 Patterns for Success` for sentence-imitation patterns;
+- Jon R. Stone's `The Routledge Book of World Proverbs`, and worldofproverbs.com (searchable by topic or culture), for the proverb-a-day practice;
 - joke books and riddle books;
-- Matthew Dicks's story practice for parent inspiration;
+- Matthew Dicks's `Storyworthy` for parent inspiration on telling stories;
+- Toastmasters as the model for short, gamified speaking practice;
 - poetry anthologies;
 - dictionaries with etymologies;
 - speech timer or simple recording tool.
@@ -160,6 +172,10 @@ Choose one loved word from context. Say it, act it, draw it, use it, and save it
 
 Offer one strong sentence pattern and three playful substitutions.
 
+### Proverb A Day
+
+Pick one proverb, copy it down, ask the child to say what it means in their own words, and add it to the posted collection. Try a week on one theme (proverbs about cats, or haste, or fools).
+
 ### One-Sentence Diary
 
 At day's end, write or dictate one sentence future-self will be glad to have.
@@ -174,8 +190,12 @@ Prepare a 30-second talk about a loved thing. Practice stance, voice, and one cl
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools language and writing workshops.
-- Kieran Egan, `The Educated Mind`.
-- Virginia Tufte and sentence imitation traditions.
-- Matthew Dicks, `Storyworthy`.
-- William Strunk Jr. and E. B. White, `The Elements of Style` for parent reference.
+- Brandon Hendrickson, "Strong Sentences," The Lost Tools of Learning. https://www.losttools.org/p/strong-sentences (sentence imitation; Quintilian and *imitatio*; cites `The Art of Styling Sentences: 20 Patterns for Success`).
+- Brandon Hendrickson, "World Proverbs," The Lost Tools of Learning. https://www.losttools.org/p/world-proverbs (proverb-a-day practice; cites Jon R. Stone, `The Routledge Book of World Proverbs`, and worldofproverbs.com).
+- Brandon Hendrickson, "Public Speaking," The Lost Tools of Learning. https://www.losttools.org/p/public-speaking (short speeches; Toastmasters as the reference model).
+- Brandon Hendrickson, "Story Ingredients," The Lost Tools of Learning. https://www.losttools.org/p/story-ingredients (simple story recipes; cites Matthew Dicks, `Storyworthy`).
+- Brandon Hendrickson, "Telling Jokes," The Lost Tools of Learning. https://www.losttools.org/p/telling-jokes (jokes as analytic-thinking practice).
+- Jon R. Stone, `The Routledge Book of World Proverbs` (named in the World Proverbs article as the source of vetted proverbs).
+- Matthew Dicks, `Storyworthy` (named in the Story Ingredients article).
+- `The Art of Styling Sentences: 20 Patterns for Success` (named in the Strong Sentences article).
+- Kieran Egan, `The Educated Mind` (editor-added, for the underlying paradigm).

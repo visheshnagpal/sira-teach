@@ -24,11 +24,13 @@ The elementary aim is to give the child bright anchors in time:
 
 ## K-12 Horizon
 
-Elementary history roots the child in simple, vivid, true stories. The stories should be emotionally graspable, memorable, and placed roughly in time and space.
+History works best as a spiral: a child travels the whole span of the past, from the Big Bang to the present, three times across the school years, each pass deeper than the last.
 
-Middle school can complicate those stories into bigger stories: cultures, empires, religions, migrations, revolutions, technologies, economies, and conflicting accounts.
+- **Elementary (first cycle)** roots the child in simple, vivid, true stories. They should be emotionally graspable, memorable, and placed roughly in time and space. This cycle works through the eras in order, building the set of bright anchors everything later hangs on.
+- **Middle school (second cycle)** starts over at the beginning and re-meets the same stories as bigger, complex stories: cultures, empires, religions, migrations, revolutions, technologies, economies, heroes with inner lives, and conflicting accounts.
+- **High school (third cycle)** travels the span once more and adds the abstractions: historiography, ideology, source criticism, moral ambiguity, causation, systems, meta-narratives, and the irony that every historical story reveals and distorts at once.
 
-High school can add historiography, ideology, source criticism, moral ambiguity, causation, meta-narratives, and the irony that every historical story reveals and distorts at once.
+The point of returning is to see something old with new eyes. The simple elementary stories are built deliberately plain so there is room to complicate them later.
 
 Do not rush the later tools. Let elementary history be story-rich, sensory, image-filled, morally awake, and ordered enough to return to.
 
@@ -50,6 +52,8 @@ For preschool and kindergarten, the goal is not chronology mastery. The goal is 
 
 Choose true stories with a protagonist, problem, action, setting, and lasting consequence. A story may be about a person, group, invention, journey, battle, law, discovery, migration, building, artwork, or religious movement.
 
+Aim for roughly one good story a week. At that pace, a child gathers about 100 stories over three or four years, enough to fill the memory palace and to feel the whole sweep of the past from the Big Bang to now.
+
 Avoid two failures:
 
 - **Triviality**: jumping so quickly from problem to solution that the solution feels obvious or sentimental.
@@ -57,18 +61,28 @@ Avoid two failures:
 
 A good first pass can be short. It should still have agony, action, setting, and "so what".
 
+Tell each story with a story shape:
+
+- **Orient**: open with a hook that builds anticipation. Ask a big question the story will wrestle with ("should you ever overthrow your leaders?"), or look closely at one painting or image of the scene, and point to the place on a map.
+- **Complicate**: read or tell the story aloud with full drama, different voices, and cliffhangers. Break a longer story across a few days and let the child guess what happens next.
+- **Transform**: make something with it. Act it out, role-play with toys, draw one crucial moment, build a comic, or wonder aloud about its ideas (hero or villain? was the choice right?).
+- **Integrate**: keep one thing forever. Make a memory card with the moral, a quote, a joke, or a one-line ironic summary, and draw a small picture to post by its dot on the timeline or memory palace.
+
 ### 2. Memory Palace Or Timeline
 
-History needs a visible memory structure.
+History needs a visible memory structure. A timeline shows everything at a glance, but it does not help facts stay in a child's head. A memory palace does: it borrows the same place-sense that makes geography stick and uses the rooms of your home as fixed pegs for stories.
 
-Use one of these:
+The source lays out one concrete, parent-runnable scaffold worth knowing. You do not have to follow it exactly, but it shows the shape:
 
-- a home memory palace: rooms, shelves, doors, windows, stairs, and corners hold story images;
-- nested timelines: universe, life, civilization, modern life, or other scales;
-- a book of centuries or history notebook;
-- a simple wall strip for the current year or era.
+- **Walk one path.** Pick a starting door (the garage, say, with its fitting dark and chill, is where the universe begins). Choose a direction and follow it through the whole home without backing up. End at a different door if you can.
+- **Mark about 22 spaces along that path.** A "space" is any broad stretch: a wall, a closet, a shelf, a piano, a big window. Each space holds one span of history.
+- **Label the spaces in order, Big Bang to the near future.** Roughly: matter, then life, then prehistory, then ancient, medieval, early modern, modern, and a final space for the future. Early spaces hold billions of years; recent ones hold a few decades each.
+- **Color-code the eras.** Give each meta-story its own color of sticker or label (for example: matter, life, prehistory, ancient, medieval, early modern, modern, future). Color turns the wall into a memory device on its own.
+- **Put about five dots per space** as placeholders, roughly 100 in all. Each dot is a peg waiting for one story.
 
-Do not overbuild the system. A rough, repairable timeline that gets used beats a perfect one that never begins.
+Alternatives if a full palace is too much: nested timelines (universe, life, civilization, modern life), a book of centuries or history notebook, or a simple wall strip for the current era.
+
+Do not overbuild the system. A rough, repairable structure that gets used beats a perfect one that never begins.
 
 ### 3. Return And Play
 
@@ -184,14 +198,16 @@ Strong canon candidates:
 - A simple world timeline or DIY wall timeline.
 - A family timeline or photo box.
 - A globe and map, used alongside history.
-- Susan Wise Bauer's `The Story of the World` as a story source to vet, not a final authority.
-- `Curiosity Chronicles` as an alternate story source to compare.
-- `History Quest` for sensory, quest-like history narration.
-- Larry Gonick's `Cartoon History of the Universe` for older children or parent support.
-- Joy Hakim's history and science-history books for later elementary and beyond.
-- `Horrible Histories`, previewed for age and family fit.
+- A home memory palace (rooms, walls, shelves) for placing story images. See the "Memory Palace Or Timeline" thread.
+- Susan Wise Bauer's `The Story of the World` (four-book series, each chapter a short story) as a story source to vet, not a final authority.
+- Larry Gonick's `The Cartoon History of the Universe` for older children or parent support.
 - Local museums, historical sites, monuments, cemeteries, old buildings, and family elders.
 - Public-domain images from museums and libraries.
+
+Editor-added leads (real works the source does not name; vet before relying on them):
+
+- Joy Hakim's `The Story of Science` series for popular science-history. The source praises Hakim as a writer; these are an editorial suggestion.
+- Other story-rich homeschool history curricula and read-alouds, previewed for age and family fit.
 
 Substitutes:
 
@@ -228,6 +244,10 @@ Choose one historical person or event. Make a four-part parent note: protagonist
 
 Make a single timeline mark for one story. Add an image, place, and one sentence. Do not fill the whole timeline first.
 
+### First Palace Space
+
+Pick one wall, closet, or shelf and declare it a span of history (say, "ancient times"). Stick a few dots on it as empty pegs. After your next story, draw a small picture and tape it by a dot. The palace grows one story at a time; you do not build it all first.
+
 ### Time Travel Senses
 
 After a story, ask: what would you smell, hear, wear, eat, fear, or miss if you were there?
@@ -242,11 +262,18 @@ Make one card with a stable image anchor: person, place, problem, and why we rem
 
 ## Bibliography
 
-- Brandon Hendrickson, "History stories: take 2!", Skeleton Army, 2024.
-- Brandon Hendrickson, homeschooling workshop on geography and history, 2024.
-- Brandon Hendrickson, "Timelines", Skeleton Army, 2024.
+- Brandon Hendrickson, "History in elementary school", The Lost Tools of Learning, 2026. https://www.losttools.org/p/history-in-elementary-school
+- Brandon Hendrickson, "Spiral history", The Lost Tools of Learning, 2024. https://www.losttools.org/p/spiral-history
+- Brandon Hendrickson, "Big History", The Lost Tools of Learning, 2024. https://www.losttools.org/p/big-history
+- Brandon Hendrickson, "Epic Stories", The Lost Tools of Learning, 2023. https://www.losttools.org/p/epic-stories
+- Brandon Hendrickson, "Nested Timelines", The Lost Tools of Learning, 2024. https://www.losttools.org/p/nested-timelines
+- Brandon Hendrickson, "Dueling Histories", The Lost Tools of Learning, 2024. https://www.losttools.org/p/dueling-histories
+- Brandon Hendrickson, "The world in 100 stories", The Lost Tools of Learning, 2026. https://www.losttools.org/p/the-world-in-100-stories
 - Kieran Egan, `The Educated Mind`.
 - Kieran Egan, `An Imaginative Approach to Teaching`.
-- Susan Wise Bauer, `The Story of the World`.
-- Larry Gonick, `The Cartoon History of the Universe`.
-- Joy Hakim, `A History of US` and `The Story of Science`.
+- Susan Wise Bauer, `The Story of the World` (four-book series) and `The Well-Trained Mind`, named in the source as story sources to vet.
+- Larry Gonick, `The Cartoon History of the Universe` (and `The Cartoon History of the Modern World`), named in the source.
+
+Editor-added (real works, not drawn from the source archive):
+
+- Joy Hakim, `The Story of Science` (`Aristotle Leads the Way`, `Newton at the Center`, `Einstein Adds a New Dimension`). The source mentions Hakim as a strong popular-science-history writer; these specific titles are an editorial addition.

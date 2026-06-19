@@ -1,14 +1,16 @@
 # Adulting Guide
 
-This is Sira's shareable adulting guide. It distills practical-life, responsibility, making, money, health, law, home, and civic practices into original guidance that can travel with the skill. Do not include private archives, child records, or long copied source passages.
+This is Sira's shareable adulting guide. It is forward-looking, original guidance, not a distillation of an existing source. The Lost Tools of Learning project lists "adulting" as a subject whose full treatment ("wireframe") was slated for around 2026 and had not yet been published when this guide was written, so there is no settled source to distill. What this guide does instead is build honest, parent-runnable practices on top of the two ideas the project *has* published that bear directly on this subject: a warning about how "life skills" teaching usually goes wrong, and a vision of helping a child learn to take care of self, home, neighborhood, and world. Practices below that go beyond those two ideas (budgets, cooking, repair, errands, scripts) are original suggestions, not sourced claims. Do not include private archives, child records, or long copied source passages.
 
 ## Mission
 
 Adulting helps a child become someone who can and wants to do real things in the world. It is not mainly chores. It is the gradual formation of competence, agency, responsibility, care, and courage with the world of things and people.
 
+One real caution shapes everything here. Whenever schools have tried to teach "life skills" directly, the result tends to be simplistic, moralistic, and dull ("Brush your teeth! Be on time!"). A child can be taught to do real things without being lectured at. The way to avoid that trap is to keep the work genuinely useful and connected to the rest of a child's life, and to frame it not as a checklist but as learning to take care: of yourself, your home, your neighborhood, and eventually the world.
+
 The elementary aim is to:
 
-- practice useful household and personal-life skills;
+- practice useful household and personal-life skills, without turning them into a moralizing checklist;
 - connect responsibility to belonging and contribution;
 - make the child comfortable with tools, money, food, time, care, and repair;
 - turn real family work into learning without exploitation or shame;
@@ -21,6 +23,12 @@ The elementary aim is to:
 - **Care**: attention that preserves people, places, bodies, and tools.
 - **Script**: words to use in a recurring social or practical situation.
 - **Repair**: noticing what is broken and learning how it might be restored.
+
+Three ways a skill actually takes root, drawn from the Lost Tools "take care" vision and framed humanely rather than as brain hacks:
+
+- **Deliberate practice**: not drilling for its own sake, but working to get genuinely good at something the child cares about.
+- **Spaced repetition**: re-meeting a skill or rule as an old friend at widening intervals, so it is not forgotten.
+- **Habit formation**: building small, meaningful rituals so the useful thing happens without a fight.
 
 ## K-12 Horizon
 
@@ -134,7 +142,7 @@ Strong canon candidates:
 - basic first aid and safety resources;
 - simple tool kit;
 - local civic places: library, post office, park, town hall, market;
-- Matthew Crawford for parent support on skilled manual work.
+- Matthew Crawford, `Shop Class as Soulcraft`, for parents on why skilled hands-on work is a source of meaning. (Note: this book is not cited in any Lost Tools adulting source — it enters the archive only through the music article "Why learn music?". Treat it as adjacent parent reading, not a basis for the adulting subject.)
 
 Substitutes:
 
@@ -176,7 +184,12 @@ Find one broken or messy thing. Ask what happened, what it affects, and what fir
 
 ## Bibliography
 
-- Brandon Hendrickson, homeschooling workshop on flourishing and adulthood.
-- Kieran Egan, `The Educated Mind`.
-- Matthew Crawford, `Shop Class as Soulcraft`.
-- Matthew Crawford, `The World Beyond Your Head`.
+This guide is original guidance. No dedicated Lost Tools "adulting" source exists yet; the two published pieces that genuinely inform it are:
+
+- "What a Fully Human K–12 Education Could Look Like" — https://www.losttools.org/p/what-a-fully-human-k12-education (the "take care of self / home / neighborhood / world" vision; the deliberate-practice, spaced-repetition, and habit-formation trio; and the note that the adulting wireframe is forthcoming, not yet written).
+- "World Proverbs" — https://www.losttools.org/p/world-proverbs (the warning that direct "life skills" teaching turns simplistic and moralistic).
+
+Adjacent reading, honestly placed:
+
+- Matthew Crawford, `Shop Class as Soulcraft` — on skilled manual work as a source of meaning. It is not from an adulting source; it appears in the archive only via the music article "Why learn music?" (https://www.losttools.org/p/why-learn-music).
+- Kieran Egan, `The Educated Mind` — the underlying framework the project builds on.

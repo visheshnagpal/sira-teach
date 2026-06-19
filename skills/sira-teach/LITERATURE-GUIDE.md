@@ -58,11 +58,23 @@ Let the child sample many books briefly and selfishly. Covers, first pages, pict
 
 Return to a story through acting, drawing, Lego, song, alternate endings, changed settings, new points of view, props, maps, and character desire.
 
-### 4. Memory And Recitation
+### 4. A Poem A Week
+
+Poetry deserves its own weekly cadence, like a song or a painting: introduce one poem, return to it across the week, and let it sink in by repetition rather than analysis. Short forms ("microliterature") reward this rhythm — a poem on Monday can still be in the child's mouth on Friday.
+
+### 5. Jokes And Humor
+
+Take jokes seriously as a thread, not a distraction. Untangling a joke is close to working a logic puzzle: the child has to follow a leap, track what a word is expected to mean, and find the link. Read joke books, tell jokes aloud, and argue about what makes one funny. The teller has to understand a joke to pass it on, so explaining one is not wasted. (Backing: `Telling Jokes`.)
+
+### 6. Sayings And Proverbs
+
+Collect proverbs from many cultures — "the most experience packed into the fewest words." Copy one down, restate it in the child's own words, compare and argue over meanings, and commit a few to memory. A proverb starts as an object of thought and becomes a tool to think with. Connect them to stories, places, and the family canon. (Backing: `World Proverbs`; one vetted online source the corpus points to is worldofproverbs.com, searchable by topic or culture.)
+
+### 7. Memory And Recitation
 
 Memorize poems, lines, jokes, speeches, prayers, or passages that are worth carrying. Use old friends lightly.
 
-### 5. Family Canon
+### 8. Family Canon
 
 Keep works in play: quote them, compare new life to them, revisit them seasonally, and let them become shared language.
 
@@ -87,7 +99,8 @@ Build a living shelf of beloved works and practices: read aloud, retell, memoriz
 
 - daily or near-daily read-aloud;
 - one retelling or play move;
-- one poem, joke, or line;
+- one poem of the week, returned to across the days;
+- one joke or proverb (copy, restate, keep);
 - one book-tasting or library move;
 - one old-friends check when due.
 
@@ -136,7 +149,8 @@ Strong canon candidates:
 - comic strips and graphic novels, vetted for fit;
 - audiobooks;
 - family and cultural stories;
-- Visual Thinking Strategies for picture reading.
+- joke books and proverb collections for the humor and sayings threads;
+- Visual Thinking Strategies for reading the pictures in picture books (note: this is a method cross-applied from the art domain, where it belongs — see the Art and Music guide).
 
 Substitutes:
 
@@ -178,8 +192,17 @@ Mark one beloved work to revisit next season or next year.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools reading and story writings.
+- Brandon Hendrickson, The Lost Tools of Learning (losttools.org). The reading and story patterns drawn on here:
+  - `Living Books` — losttools.org/p/living-books
+  - `Book Tastings` — losttools.org/p/book-tastings
+  - `Story Ingredients` — losttools.org/p/story-ingredients
+  - `Playing inside Stories` — losttools.org/p/playing-inside-stories
+  - `Epic Stories` — losttools.org/p/epic-stories
+  - `Telling Jokes` — losttools.org/p/telling-jokes (backing for the humor thread)
+  - `World Proverbs` — losttools.org/p/world-proverbs (backing for the sayings thread)
+- Charlotte Mason — origin of the term "living books" (cited in `Living Books`).
+- Matthew Dicks, `Storyworthy` — the personal-story method (character / desire / thwarted attempts / resolution / change), cited in `Story Ingredients`.
 - Kieran Egan, `The Educated Mind`.
-- Kieran Egan, `Teaching as Story Telling`.
-- Matthew Dicks, `Storyworthy`.
-- Visual Thinking Strategies materials.
+- Kieran Egan, `Teaching as Storytelling`.
+- Jon R. Stone, `The Routledge Book of World Proverbs` — proverb source named in `World Proverbs`.
+- Visual Thinking Strategies — a picture-reading method that belongs to the art domain (see the Art and Music guide); cross-applied here for reading the images in picture books.

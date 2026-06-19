@@ -64,11 +64,19 @@ When a foundation is fragile, build a ladder: one tiny step per row, beginning b
 
 Use ladders for place value, regrouping, fractions, negative numbers, exponents, algebra moves, and unit conversion.
 
-### 4. Puzzles And Games
+### 4. Origin Stories
+
+Every symbol and procedure in math was invented by a real, often quirky person solving a real problem. Tell the short story behind a squiggle as you teach it: why "+" is a shorthand for the Latin "et" (and), why "3" is three lines swooped together, why we call them "integers." A sentence or two is enough. This turns a page of dead symbols into history congealed, and lets a child feel they are joining a centuries-long human tradition rather than memorizing arbitrary marks. Use this lightly and often; never force a child to memorize the names.
+
+### 5. Deep Practice Book
+
+Too much hard-won math is learned, then forgotten, including the very problems a child struggled with most, which are the ones worth keeping. Build a collection of the problems that have stumped the child. Give each its own page, with room for questions and more than one solution method. Return to them on a schedule (often at first, then more rarely), and each time ask the child to rate it: impossible, hard, medium, easy, or automatic. Did you notice anything new? Is there a simpler way? Over months and years, a child watches "impossible" problems drift to "easy," which is its own quiet proof that present frustration is temporary.
+
+### 6. Puzzles And Games
 
 Puzzles keep effort alive. Use ciphers, pattern games, strategy games, estimation bets, mental math challenges, magic tricks, and classics like Tower of Hanoi.
 
-### 5. Measurement And Reality
+### 7. Measurement And Reality
 
 Measurement connects math to care. Cook, build, weigh, time, walk, estimate, compare, and check. Teach units through felt anchors before formulas.
 
@@ -146,9 +154,12 @@ Review math old friends quickly. If review pressure grows, split a separate revi
 Strong canon candidates:
 
 - manipulatives: beads, blocks, dice, cards, measuring tape, scale, clock, coins;
-- JUMP Math as a source for carefully sequenced practice;
-- Prime Climb and other number-rich games;
+- JUMP Math (John Mighton) as a source for carefully sequenced, ladder-style practice;
+- alternative core curricula families love: Beast Academy, Minimalist Math (Michelle Scharfe, of ResearchParent.com), and Math Academy. Pick whichever fits the child; the practices in this guide work on top of any of them;
+- a Deep Practice Book: a plain notebook or binder kept by the child for stumper problems (see First Artifact Patterns);
+- The Complete Book of Finger Math by Edwin Lieberthal, the guide behind the finger-as-abacus method (out of print but cheap used and on Kindle);
 - a real soroban or abacus;
+- Prime Climb and other number-rich games;
 - Arthur Benjamin's mental math work for parent inspiration;
 - 3Blue1Brown for older-child or parent visual intuition;
 - Ben Orlin for mathematical humor and adult support;
@@ -186,6 +197,10 @@ Make a tiny ladder for one fragile move. Stop at the first real wobble.
 
 Offer one hard, interesting problem first, then teach the tool needed to solve it.
 
+### Deep Practice Book
+
+Start a notebook. The next time a problem genuinely stumps the child, give it a full page. Re-solve it together a few days later and rate it together: impossible, hard, medium, easy, automatic.
+
 ### Measurement Hunt
 
 Estimate and measure five things in the room. Make one unit anchor old friend.
@@ -196,9 +211,10 @@ Play one short strategy or number game, then ask the child to explain one move.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools math writings and workshops.
-- Kieran Egan, `The Educated Mind`.
+- Brandon Hendrickson, Lost Tools of Learning (losttools.org) math writings and workshops, including "The magic of numbers: The seriousness of enchantment," "Finger math," "Concept Ladders (math)," "Origin stories (in science & math)," "How to build a Deep Practice Book," and "A sneak peek at math."
 - John Mighton, JUMP Math.
+- Edwin Lieberthal, `The Complete Book of Finger Math`.
+- Kieran Egan, `The Educated Mind`.
 - Arthur Benjamin, `Secrets of Mental Math`.
 - Ben Orlin, `Math for English Majors`.
 - Grant Sanderson, 3Blue1Brown.

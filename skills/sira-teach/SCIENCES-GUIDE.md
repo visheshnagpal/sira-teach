@@ -54,15 +54,23 @@ Know a tree, bird, insect, plant, rock, stream, garden bed, or weather pattern. 
 
 Use surprising truths to puncture false simplicity: flowers are reproductive structures, planets fall around the Sun, birds are living dinosaurs, the Moon appears in daytime, plants sense and respond.
 
-### 3. Experiments That Explain
+### 3. Secrets And Revelations
+
+This is the signature science move. When you find a fact that flips how the world looks, do not just announce it. Withhold it. Turn it into a question the child has to earn the answer to, and let them work, guess, and wrestle until it clicks. The payoff lands as a revelation, not a line in a notebook: the child remembers it, retells it, and comes back asking for more. (Trees are heavy because they are built largely out of air; a pinch of soil holds billions of living things; smelling a pie means tiny pieces of pie are caught in your nose.) The rule of thumb: take something that amazed you, figure out the question it answers, and ask the child that question first. Use sparingly with a child who genuinely just wants the fact, and never let an external prize ride on knowing the answer.
+
+### 4. Experiments That Explain
 
 Avoid experiments that only perform spectacle. Ask what the experiment actually shows, what it does not show, and what model it uses.
 
-### 4. Scale And Systems
+### 5. Evidence And Rival Models
+
+Older children can do the real work of science: weighing evidence and building competing explanations. The strongest version of this is to take a claim the child does not believe, and have them build the best possible case for it, then a rival model that explains the same evidence even better. (One exemplar from the source: instead of just debunking a worldwide flood, kids hunt for real fossils, then compete to make the strongest flood model and the strongest mainstream model for why fossils sit in the layers they do.) A good rival model does not just poke holes; it explains the evidence more completely. This teaches a child that you do not get to dismiss an idea until you have honestly tried to make it work, and that disagreeing well, across a real divide, can be a kind of friendship.
+
+### 6. Scale And Systems
 
 Move between tiny, human, Earth, and cosmic scale with images, gestures, maps, and models. Use scale as wonder, not as dead numbers.
 
-### 5. Science Stories
+### 7. Science Stories
 
 Tell the human story of discoveries, mistakes, instruments, rival theories, and stubborn evidence. Science is history congealed.
 
@@ -131,10 +139,12 @@ Strong canon candidates:
 - magnifying glass, jar, thermometer, ruler, scale;
 - Merlin Bird ID and local field guides;
 - H. A. Rey sky books;
-- `Science is Weird` as inspiration where available;
-- David George Haskell, Daniel Chamovitz, Stefano Mancuso, Tristan Gooley for parent support;
-- museum, aquarium, planetarium, garden, park, beach, forest, or local nature center;
-- reputable public science videos and museum resources, vetted for age.
+- `Science is Weird` (Brandon Hendrickson's courses) as inspiration where available;
+- on plants and plant intelligence: Michael Pollan's New Yorker essay "The Intelligent Plant," Daniel Chamovitz's `What a Plant Knows`, Stefano Mancuso's plant writings, and Tristan Gooley's nature-reading books;
+- for older kids learning to weigh evidence: Daniel Loxton & Donald Prothero, `Abominable Science!` (cryptids, evaluated rationally), and Tom Chivers, `Everything Is Predictable` (how Bayesian thinking works);
+- for the big story of the universe: David Christian's Big History Project, Larry Gonick's `The Cartoon History of the Universe` (good from about age 8-9), Yuval Noah Harari's `Sapiens` graphic novels, and Charles Mann's `1491` / its young-adult version `Before Columbus`;
+- on video: Kurzgesagt (YouTube), vetted for age, and other reputable public science channels;
+- museum, aquarium, planetarium, garden, park, beach, forest, or local nature center.
 
 Substitutes:
 
@@ -165,6 +175,14 @@ Show a common simplified model and ask what is misleading about it.
 
 Introduce one true strange fact, connect it to a real mechanism, and make one old friend.
 
+### Earn The Secret
+
+Take one mind-flipping fact, turn it into a question, and make the child work toward it before you reveal it. Let the click happen for them, not from you.
+
+### Plant MatchMaker
+
+Photograph a plant in your yard and, with an AI helper, have it identified and then personified: which book or movie character is this plant most like, what does it want, what does it fear, who has loved or hated it through history. The aim is not the name; it is to know the plant the way you know a person, so the facts finally stick. (A parent supervises the AI and checks anything safety-related, like whether a plant is toxic.)
+
 ### Prediction Walk
 
 Predict what will change outdoors, then check.
@@ -175,10 +193,18 @@ Use a simple model, then name what the model cannot show.
 
 ## Bibliography
 
-- Brandon Hendrickson, Lost Tools science writings and workshops.
+- Brandon Hendrickson, Lost Tools of Learning (losttools.org) science writings and workshops, including "Secrets & Revelations (science)," "Cryptids," "Big History," "Plant MatchMaker," "A fossil hunt to end the culture war," and "Know a Tree."
 - Kieran Egan, `The Educated Mind`.
 - Kieran Egan, `An Imaginative Approach to Teaching`.
+- Michael Pollan, "The Intelligent Plant" (New Yorker essay; replaces an earlier listing of David George Haskell, who does not appear in the source archive).
 - Daniel Chamovitz, `What a Plant Knows`.
 - Stefano Mancuso, plant intelligence writings.
 - Tristan Gooley, nature-reading books.
+- Daniel Loxton & Donald Prothero, `Abominable Science!`.
+- Tom Chivers, `Everything Is Predictable`.
+- David Christian, Big History Project.
+- Larry Gonick, `The Cartoon History of the Universe`.
+- Yuval Noah Harari, `Sapiens` graphic novels.
+- Charles Mann, `1491` / `Before Columbus`.
+- Kurzgesagt (YouTube).
 - H. A. Rey, `Find the Constellations`.
