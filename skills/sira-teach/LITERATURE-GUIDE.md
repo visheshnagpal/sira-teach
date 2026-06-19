@@ -78,6 +78,18 @@ Memorize poems, lines, jokes, speeches, prayers, or passages that are worth carr
 
 Keep works in play: quote them, compare new life to them, revisit them seasonally, and let them become shared language.
 
+### 9. Becoming A Reader (Early Reading)
+
+Underneath read-aloud life sits the question of how a child *becomes* a reader at all. A strong complementary voice here is **Erik Hoel's "Teaching (Very) Early Reading" series** (The Intrinsic Perspective). Its through-line fits this guide's mission — **the goal is pleasure, not precocity**:
+
+- **Tiny daily consistency, not heroic sessions.** Begin with a short daily reading time (under ~10 minutes) and expand gradually as appetite grows.
+- **Put books in the path of daily life** — the default thing to reach for while waiting, calming, or self-entertaining — not on a sacred, untouched shelf.
+- **Pair phonics with real books.** Teach sounding-out and blending (his Part 3 is a full phonics progression, including a sentence-completion game), but anchor it to actual reading, never to disconnected drills.
+- **Mind the "literacy lag."** Children meet screens long before they're taught to read, so books lose an unfair race; earlier, gentler reading lets books compete sooner.
+- **North star & proof:** the child reaches for books *voluntarily* and treats reading as pleasure, calm, power, and independence. Track lightly — voluntary book-reaches, sustained attention, self-chosen books, new words decoded, "read it again," reading alone.
+
+**Guardrail:** never turn reading into a status or trophy project. Borrow the environment design and daily rhythm; keep *pleasure* as the only signal that matters. (The decoding/phonics mechanics also connect to the Vocabulary & Writing guide.)
+
 ## Planning Cascade
 
 ### Year Aim
@@ -153,6 +165,7 @@ Strong canon candidates:
 - family and cultural stories;
 - joke books and proverb collections for the humor and sayings threads;
 - Visual Thinking Strategies for reading the pictures in picture books (note: this is a method cross-applied from the art domain, where it belongs — see the Art and Music guide).
+- Erik Hoel's "Teaching (Very) Early Reading" series (The Intrinsic Perspective) — a complementary parent guide to building a reader: short daily reading time, books in the path of daily life, and phonics/blending anchored to real books. (Part 1 free; Parts 2–5 paid.) See Bibliography and the "Becoming A Reader" thread.
 
 Substitutes:
 
@@ -208,3 +221,13 @@ Mark one beloved work to revisit next season or next year.
 - Kieran Egan, `Teaching as Storytelling`.
 - Jon R. Stone, `The Routledge Book of World Proverbs` — proverb source named in `World Proverbs`.
 - Visual Thinking Strategies — a picture-reading method that belongs to the art domain (see the Art and Music guide); cross-applied here for reading the images in picture books.
+
+Editor-added complementary source (not from the Lost Tools archive):
+
+- Erik Hoel, "Teaching (Very) Early Reading" series, *The Intrinsic Perspective* (theintrinsicperspective.com) — the early-reading / becoming-a-reader thread draws on:
+  1. How to teach your two-year-old to read — https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to
+  2. Getting your child to love reading in 2024 — https://www.theintrinsicperspective.com/p/getting-your-child-to-love-reading
+  3. The BIG GUIDE to teaching LITTLE PEOPLE how to sound out words — https://www.theintrinsicperspective.com/p/the-big-guide-to-teaching-little
+  4. How I taught my 3-year-old to read like a 9-year-old — https://www.theintrinsicperspective.com/p/how-i-taught-my-3-year-old-to-read
+  5. Literacy lag: We start reading too late — https://www.theintrinsicperspective.com/p/literacy-lag-we-start-reading-too
+  (Part 1 is public; Parts 2–5 are paid/Substack-gated — summarize from your own access, don't reproduce gated text.)
