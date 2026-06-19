@@ -1,0 +1,8 @@
+{
+  "name": "sira-teach",
+  "description": "Sira: stateful family teaching workspace for parents helping one or more preschool or elementary children learn over time. Provides /sira-teach.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Neha Setia"
+  }
+}

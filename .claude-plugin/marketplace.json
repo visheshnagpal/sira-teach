@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "neha-teaching",
+  "description": "Neha's teaching tools — imaginative, mission-driven family learning workspaces.",
+  "owner": {
+    "name": "Neha Setia"
+  },
+  "plugins": [
+    {
+      "name": "sira-teach",
+      "description": "Sira: a parent-operated homeschool teaching skill for preschool/elementary children, grounded in Kieran Egan's imaginative education and the Lost Tools of Learning. Turns a folder into a stateful family learning home and produces low-prep, jargon-free lessons. Provides /sira-teach.",
+      "category": "productivity",
+      "source": "."
+    }
+  ]
+}
