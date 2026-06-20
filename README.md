@@ -1,34 +1,38 @@
 # Sira — a homeschool teaching skill for Claude Code
 
-**Sira** helps a parent teach preschool and elementary children over time, grounded in **Kieran Egan's imaginative education** and the **Lost Tools of Learning**. It turns a folder into a stateful "family learning home" and produces low-prep, jargon-free, self-contained lessons — plus an "old friends" spaced-repetition system to keep what's learned alive.
+**Sira is an academic unschooler's best friend.** It helps a parent teach preschool and elementary children, one lesson at a time, across every subject. You tell it what you'd like your child to learn; it asks a few quick questions, then builds an imaginative, low-prep, ready-to-run lesson — grounded in **Kieran Egan's imaginative education** and the **Lost Tools of Learning**, with the pedagogy kept under the hood so you only ever see plain, practical teaching moves. It also keeps a gentle "old friends" spaced-repetition system so what's learned stays alive.
 
-Motto: *an academic unschooler's best friend.*
+## Before you start
+
+Sira runs *inside* **Claude Code** — Anthropic's AI assistant for your computer. You'll need it installed and signed in first. Get it from Anthropic at **claude.com** (developers can also install it with `npm install -g @anthropic-ai/claude-code`).
 
 ## Install
 
-In Claude Code (you may need to `/login` first):
+Paste these two lines into Claude Code (run `/login` first if it asks):
 
 ```
 /plugin marketplace add https://github.com/visheshnagpal/sira-teach.git
 /plugin install sira-teach@neha-teaching
 ```
 
-*Use the full `https://…​.git` URL.* The `owner/repo` shorthand can try to clone over SSH and fail with `Permission denied (publickey)` if you don't have GitHub SSH keys set up. This is a public repo, so the HTTPS URL needs no keys and no login. (If a previous failed attempt left a marketplace registered, run `/plugin marketplace remove neha-teaching` first, then re-add.)
+> **Use the full `https://…​.git` URL above.** The short `owner/repo` form can try to clone over SSH and fail with `Permission denied (publickey)` if you don't have GitHub SSH keys. This is a public repo, so the HTTPS URL needs no keys and no login. *(If a failed attempt left a marketplace registered, run `/plugin marketplace remove neha-teaching` first, then re-add.)*
 
-Then, in a folder you want to use as a learning home:
+## Use it
+
+In any folder you'd like to use as your child's "learning home", type:
 
 ```
 /sira-teach What should we help my child learn next?
 ```
 
-Sira will interview you (one question at a time), set up the workspace, and build the first lesson.
+Sira interviews you one question at a time, sets up the space, and builds the first lesson. Come back any time and it picks up where you left off.
 
 ## What's inside
 
-- A six-branch operating model (onboard → make a lesson → record feedback → build guidance → audit progress → improve itself).
-- Ten subject guides (geography, history, mathematics, sciences, languages, vocabulary/writing, literature, art/music, philosophy/world-religions, adulting).
-- Craft references distilling Egan and the Lost Tools archive — kept *under the hood*; the parent and child only ever see practical, plain-language teaching moves.
+- A six-branch flow: onboard → make a lesson → record what happened → build subject guidance → check progress → improve itself.
+- Ten subject guides — geography, history, mathematics, sciences, languages, vocabulary & writing, literature, art & music, philosophy & world religions, and "adulting".
+- Craft references distilling Egan and the Lost Tools archive, kept *under the hood* — you and your child only ever see plain-language teaching moves.
 
 ## Credit & grounding
 
-Built on Matt Pocock's `teach` skill structure; pedagogy grounded in Kieran Egan (*The Educated Mind*, *An Imaginative Approach to Teaching*) and Brandon Hendrickson's *The Lost Tools of Learning* (losttools.org). Subject guides are original distillations — they do not reproduce source archives.
+Built on Matt Pocock's `teach` skill structure; pedagogy grounded in Kieran Egan (*The Educated Mind*, *An Imaginative Approach to Teaching*), Brandon Hendrickson's *The Lost Tools of Learning* (losttools.org), and Erik Hoel's early-reading writing (*The Intrinsic Perspective*). Subject guides are original distillations — they do not reproduce source archives.
